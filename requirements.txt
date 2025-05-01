@@ -2,4 +2,4 @@ pandas
 matplotlib
 nltk
 wordcloud
-sklearn
+scikit-learn
