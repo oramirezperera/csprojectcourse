@@ -1,5 +1,7 @@
+python=3.13
 pandas
 matplotlib
 nltk
 wordcloud
 scikit-learn
+gensim
